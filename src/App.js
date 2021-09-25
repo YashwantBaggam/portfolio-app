@@ -10,6 +10,9 @@ function App() {
         <img src={profile_pic} className="img_propic" alt="pro_pic"/>
         <h2 style={{ margin:"0px"}}>Yashwant Baggam</h2>
         <div style={{margin:"2px", paddingBottom:"2px"}}>React Developer</div>
+        <div style={{fontSize:"20px", color:"#61dafb"}}>
+          Proficient in HTML, CSS, Javascript, React and Redux
+        </div>
       </header>
     </div>
   );
